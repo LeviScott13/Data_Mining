@@ -6,7 +6,7 @@ By gathering data from the Federal Aviation Administration's Bird Strike databas
 
 ![](Images/c1.PNG)
 
-![](Images/c12.PNG)
+![](Images/c2.PNG)
 
 ![](Images/c3.PNG)
 
